@@ -1,0 +1,50 @@
+package org.company.weather.entity;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.Id;
+import lombok.AccessLevel;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.experimental.FieldDefaults;
+import org.hibernate.annotations.GenericGenerator;
+
+import java.time.LocalDateTime;
+
+@Entity
+@Data
+@NoArgsConstructor
+@FieldDefaults(level = AccessLevel.PRIVATE)
+public class Weather {
+//    @Id
+//    @GeneratedValue(generator = "uuid")
+//    @GenericGenerator(name = "uuid", strategy = "org.hibernate.id.UUIDGenerator")
+//    String id;
+//    String requestedCityName;
+//    String cityName;
+//    String country;
+//    Integer temperature;
+//    LocalDateTime updatedTime;
+//    LocalDateTime responseLocalTime;
+//
+//    public Weather(String requestedCityName, String cityName, String country, Integer temperature, LocalDateTime updatedTime, LocalDateTime responseLocalTime) {
+//        this.id = "";
+//        this.requestedCityName = requestedCityName;
+//        this.cityName = cityName;
+//        this.country = country;
+//        this.temperature = temperature;
+//        this.updatedTime = updatedTime;
+//        this.responseLocalTime = responseLocalTime;
+//    }
+//
+//    public Weather(String id, String requestedCityName, String cityName, String country, Integer temperature, LocalDateTime updatedTime, LocalDateTime responseLocalTime) {
+//        this.id = id;
+//        this.requestedCityName = requestedCityName;
+//        this.cityName = cityName;
+//        this.country = country;
+//        this.temperature = temperature;
+//        this.updatedTime = updatedTime;
+//        this.responseLocalTime = responseLocalTime;
+//    }
+}
