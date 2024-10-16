@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="726dcf49-2b9b-41da-b3ce-c9a47050c63f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ms8DOUS9vzafRCciMabEv0vxRi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.docker-compose.yml.app: Compose Deployment.executor": "Run",
+    "Docker.docker-compose.yml: Compose Deployment.executor": "Run",
+    "Maven.weather [clean].executor": "Run",
+    "Maven.weather [install].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.WeatherApplication.executor": "Run",
+    "com.codeium.enabled": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.codeium.AppSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Workspace\weather\data\assets" />
+      <recent name="C:\Workspace\weather\data\prometheus\config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.WeatherApplication">
+    <configuration name="WeatherApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="weather" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.company.weather.WeatherApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.app: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="app" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml.app: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19072.14" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19072.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="726dcf49-2b9b-41da-b3ce-c9a47050c63f" name="Changes" comment="" />
+      <created>1727853805637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727853805637</updated>
+      <workItem from="1727853806744" duration="2216000" />
+      <workItem from="1728024354109" duration="7934000" />
+      <workItem from="1728075935775" duration="263000" />
+      <workItem from="1728076211786" duration="323000" />
+      <workItem from="1728076603329" duration="16000" />
+      <workItem from="1728076630708" duration="99000" />
+      <workItem from="1728199543599" duration="454000" />
+      <workItem from="1728200327113" duration="2805000" />
+      <workItem from="1728203484003" duration="28070000" />
+      <workItem from="1728458437495" duration="730000" />
+      <workItem from="1728461128638" duration="20251000" />
+      <workItem from="1728645514268" duration="4122000" />
+      <workItem from="1728855512135" duration="294000" />
+      <workItem from="1728890556624" duration="41349000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
+    <option name="historyDtoById">
+      <map>
+        <entry key="276cb7">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="276cb7" />
+              <option name="initiateTms" value="1729066577996" />
+              <option name="request" value=" Generate tests for class WeatherService" />
+              <option name="response" value="" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/org/company/weather/dto/WeatherDto.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/org/company/weather/dto/Location.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/org/company/weather/constants/Constants.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/org/company/weather/dto/Request.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/org/company/weather/dto/WeatherResponse.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/org/company/weather/service/WeatherService.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/org/company/weather/dto/Current.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/org/company/weather/repository/WeatherRepository.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/org/company/weather/entity/WeatherEntity.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="db8b24">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="db8b24" />
+              <option name="initiateTms" value="1729066497143" />
+              <option name="request" value=" Generate tests for class WeatherService" />
+              <option name="response" value="" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/org/company/weather/dto/WeatherDto.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/org/company/weather/dto/Location.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/org/company/weather/constants/Constants.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/org/company/weather/dto/Request.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/org/company/weather/dto/WeatherResponse.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/org/company/weather/service/WeatherService.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/org/company/weather/dto/Current.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/org/company/weather/repository/WeatherRepository.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/org/company/weather/entity/WeatherEntity.kt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

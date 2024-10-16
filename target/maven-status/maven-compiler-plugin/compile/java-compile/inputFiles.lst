@@ -1,0 +1,16 @@
+C:\Workspace\weather\src\main\java\org\company\weather\controller\validation\CityNameConstraint.java
+C:\Workspace\weather\src\main\java\org\company\weather\config\SpringCachingConfig.java
+C:\Workspace\weather\src\main\java\org\company\weather\dto\Current.java
+C:\Workspace\weather\src\main\java\org\company\weather\dto\WeatherResponse.java
+C:\Workspace\weather\src\main\java\org\company\weather\controller\validation\CityParameterValidator.java
+C:\Workspace\weather\src\main\java\org\company\weather\exception\GeneralExceptionAdvice.java
+C:\Workspace\weather\src\main\java\org\company\weather\config\RestTemplateConfig.java
+C:\Workspace\weather\src\main\java\org\company\weather\service\WeatherService.java
+C:\Workspace\weather\src\main\java\org\company\weather\dto\Location.java
+C:\Workspace\weather\src\main\java\org\company\weather\dto\Request.java
+C:\Workspace\weather\src\main\java\org\company\weather\repository\WeatherRepository.java
+C:\Workspace\weather\src\main\java\org\company\weather\constants\Constants.java
+C:\Workspace\weather\src\main\java\org\company\weather\controller\WeatherController.java
+C:\Workspace\weather\src\main\java\org\company\weather\WeatherApplication.java
+C:\Workspace\weather\src\main\java\org\company\weather\dto\WeatherDto.java
+C:\Workspace\weather\src\main\java\org\company\weather\config\OpenApiConfiguration.java

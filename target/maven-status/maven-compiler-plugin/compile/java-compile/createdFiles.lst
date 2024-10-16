@@ -1,0 +1,16 @@
+org\company\weather\controller\validation\CityNameConstraint.class
+org\company\weather\repository\WeatherRepository.class
+org\company\weather\dto\WeatherDto.class
+org\company\weather\dto\WeatherResponse.class
+org\company\weather\controller\WeatherController.class
+org\company\weather\exception\GeneralExceptionAdvice.class
+org\company\weather\service\WeatherService.class
+org\company\weather\controller\validation\CityParameterValidator.class
+org\company\weather\config\RestTemplateConfig.class
+org\company\weather\dto\Request.class
+org\company\weather\constants\Constants.class
+org\company\weather\WeatherApplication.class
+org\company\weather\config\SpringCachingConfig.class
+org\company\weather\config\OpenApiConfiguration.class
+org\company\weather\dto\Current.class
+org\company\weather\dto\Location.class
